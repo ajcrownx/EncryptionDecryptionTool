@@ -1,0 +1,3 @@
+[console_scripts]
+create-version-file = pyinstaller_versionfile.__main__:main
+
